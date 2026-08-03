@@ -64,18 +64,21 @@ Respostas muito longas	Sem limite ou escopo definido	Definir: "seja objetivo, us
 📝 Resumos Estruturados
 🔹 O que é o NotebookLM
 É uma ferramenta de IA generativa criada pelo Google que funciona como um caderno de anotações potencializado. Você carrega suas próprias fontes (PDF, textos, links) e ele lê, relaciona e responde perguntas com base apenas no seu material. Diferente de outros modelos, ele se restringe às fontes que você fornece, o que aumenta a confiabilidade.
+
 🔹 Para que serve
 Resumir documentos longos rapidamente;
 Responder perguntas com base em materiais específicos;
 Relacionar informações entre vários arquivos;
 Criar resumos, fichas de estudo e glossários;
 Identificar pontos-chave e gerar explicações simplificadas.
+
 🔹 Principais recursos
 📄 Upload de arquivos e links como fonte;
 💬 Chat com a IA sobre o material;
 📑 Geração automática de resumos e visões gerais;
 📋 Criação de guias de estudo e perguntas de revisão;
 🔗 Citações automáticas das fontes.
+
 🔹 Como usar em 4 passos
 Adicionar fontes: Faça upload de PDFs, cole textos ou insira links;
 Fazer perguntas: Use a caixa de chat para pedir resumos, explicações, comparações;
