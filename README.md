@@ -62,24 +62,29 @@ Respostas muito longas	Sem limite ou escopo definido	Definir: "seja objetivo, us
 📖 Miniguia de Estudo — Entrega Final
 
 📝 Resumos Estruturados
-🔹 O que é o NotebookLM
+
+🔹 O que é o NotebookLM?
+
 É uma ferramenta de IA generativa criada pelo Google que funciona como um caderno de anotações potencializado. Você carrega suas próprias fontes (PDF, textos, links) e ele lê, relaciona e responde perguntas com base apenas no seu material. Diferente de outros modelos, ele se restringe às fontes que você fornece, o que aumenta a confiabilidade.
 
-🔹 Para que serve
+🔹 Para que serve?
+
 Resumir documentos longos rapidamente;
 Responder perguntas com base em materiais específicos;
 Relacionar informações entre vários arquivos;
 Criar resumos, fichas de estudo e glossários;
 Identificar pontos-chave e gerar explicações simplificadas.
 
-🔹 Principais recursos
+🔹 Principais recursos:
+
 📄 Upload de arquivos e links como fonte;
 💬 Chat com a IA sobre o material;
 📑 Geração automática de resumos e visões gerais;
 📋 Criação de guias de estudo e perguntas de revisão;
 🔗 Citações automáticas das fontes.
 
-🔹 Como usar em 4 passos
+🔹 Como usar em 4 passos?
+
 Adicionar fontes: Faça upload de PDFs, cole textos ou insira links;
 Fazer perguntas: Use a caixa de chat para pedir resumos, explicações, comparações;
 Aproveitar sugestões: Use os prompts sugeridos pela própria ferramenta;
@@ -89,6 +94,7 @@ Aprimorar: Ajuste suas perguntas até obter o formato e detalhamento desejado.
 
 Tabela
 Termo	Definição
+
 Base de Fontes	Conjunto de materiais que você carrega no NotebookLM para consulta pela IA
 Prompt	Instrução ou pergunta enviada para a IA realizar uma tarefa
 Engenharia de Prompts	Técnica de elaborar perguntas claras e completas para obter melhores respostas
@@ -97,8 +103,9 @@ Citação de Fonte	Indicação de qual trecho e qual documento a informação fo
 Caderno Temático	Conjunto organizado de fontes e perguntas sobre um único assunto
 
 ✍️ Prompts Reutilizáveis
+
 Copie e cole esses prompts sempre que precisar revisar ou aprofundar o tema:
-plaintext
+
 1. "Faça um resumo estruturado em tópicos sobre [ASSUNTO], com base nas fontes."
 
 2. "Explique os conceitos principais de [ASSUNTO] de forma simples e com exemplos."
@@ -115,5 +122,6 @@ plaintext
 
 8. "Com base nas fontes, crie um roteiro de estudo organizado por tópicos sobre [ASSUNTO]."
 
-✅ Conclusão
+✅ Conclusão:
+
 O uso do NotebookLM aliado a prompts bem elaborados transforma a forma de estudar: em vez de ler documentos inteiros repetidamente, você pode pedir resumos, explicações e revisões de forma direcionada. A qualidade do resultado depende de boas fontes + boas perguntas — e documentar esse processo é a melhor forma de evoluir constantemente.
